@@ -1,0 +1,5 @@
+com\example\library\model\Item.class
+com\example\library\model\Book.class
+com\example\library\model\BoardGame.class
+com\example\library\model\Customer.class
+com\example\library\model\Rental.class
